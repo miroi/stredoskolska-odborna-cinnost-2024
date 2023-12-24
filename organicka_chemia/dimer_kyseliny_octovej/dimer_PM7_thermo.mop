@@ -1,4 +1,4 @@
- AUX LARGE CHARGE=0 SINGLET  PM7 PRECISE
+ LARGE CHARGE=0 SINGLET  PM7 BFGS PRECISE
 dimer  kyseliny octovej
 
    C       -7.66214             1         1.61962             1        -0.12696             1 
