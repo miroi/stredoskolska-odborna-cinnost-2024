@@ -7,5 +7,5 @@ r(MMFF94)=1.420 A
 r(UFF)=1.120 A  ... pouzijem pre MOPAC vstup
 r(GAFF)=1.124 A
 
-
+r(PM7)=
 
