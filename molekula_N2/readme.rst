@@ -9,7 +9,7 @@ r(GAFF)=1.124 A
 
 r(PM7)=1.119 A
 
-molekulove orbitaly
+molekulove orbitaly N2
 --------------------
 
 N2_PM7.mgf nacitame do JMol, zobrazime homo (sigma molekulovy orbital), homo-1,homo-2 (2 pi molekulove orbitaly)
@@ -32,6 +32,8 @@ E(N,RHF)=472.79200 KJ/MOL
 
 
 De= 2*E(N) - E(N2)
-De= 2*472.79200 - 138.03124 =  807.55276 = 807.6 kJ/mol (ucebnice 946 kJ/mol)
+De= 2*472.79200 - 138.03124 =  807.55276 = 807.6 kJ/mol (ucebnica  946 kJ/mol)
 
-
+atomove orbitaly N
+------------------
+nacitame mgf subor atomu N, bud RHF alebo UHF
