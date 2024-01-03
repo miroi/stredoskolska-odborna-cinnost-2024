@@ -1,6 +1,8 @@
 Rovnovazna konstanta
 =====================
 
+CH1-s129
+
 Napríklad rovnovážna konštanta Kc pre reakciu:
 
 N2(g) + 3H2(g) 2NH3(g)
