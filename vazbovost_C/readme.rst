@@ -16,3 +16,4 @@ a označujeme ho symbolom *) ako v prvom prípade, možnosť vytvorenia dvoch ď
 väzieb (spojená s uvoľnením energie) nakoniec preváži a uhlík sa správa v zlúčeninách ako
 štvorväzbový.
 
+https://en.wikipedia.org/wiki/Methylene_(compound)
