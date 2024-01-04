@@ -11,6 +11,12 @@ https://www.zigya.com/share/Q0hFTjExMDg4NjU1
 https://socratic.org/questions/what-is-the-heat-of-hydrogenation-in-a-hydrogenation-reaction
 -134 kJ/mol
 
+https://www.sarthaks.com/931910/calculate-the-enthalpy-of-hydrogenation-ethylene-from-the-following-data-bond-energies
+-122 kJ/mol
+
+Vid  https://journals.sagepub.com/doi/pdf/10.1177/1747519820918498
+
+
 Vypocty
 -------
 MMFF94
