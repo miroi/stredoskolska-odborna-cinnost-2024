@@ -13,19 +13,23 @@ má pri teplote 25 °C hodnotu Kc = 4,1·10^8 a pri teplote 127 °C hodnotu Kc =
 H2:
   H=-32.011 KCAL/MOL; T=298K, S=31.2178 CAL/K/MOL 
 
-NH3: H= -4.261KCAL/MOL = -17.8kJ/mol; T=298K; S=45.8425 CAL/K/MOL => G=H-T*S=-4261-298*45.8425 cal/mol = -17922.0650 cal/mol = -74985.91996 J/mol
-(see https://webbook.nist.gov/cgi/cbook.cgi?ID=C7664417&Mask=1A8F ...-45.90 kJ/mol ) 
+NH3: H= -4.261KCAL/MOL = -17.8kJ/mol (table -45.90 kJ/mol) ; T=298K;  VELKY ROZDIEL !!!! NEDA SA SPOCITAT Gibbsova volna energia !!!
+     S=45.8425 CAL/K/MOL=191.933296 J/K/mol (table 192.77) 
+(see https://webbook.nist.gov/cgi/cbook.cgi?ID=C7664417&Mask=1A8F ...Hfo = -45.90 kJ/mol =  ) 
 
 N2: H=32.990 KCAL/MOL; T=298K, S=45.8337 CAL/K/MOL
 
 
 Gr = - RTlnK => K = exp(-Gr/(RT)) 
  
+- The heat of formation, ΔHf, of an element in its standard state (298K, 1 atmosphere pressure) is zero.
+- The free energy of formation, ΔFf, of an element in its standard state is zero. 
+ 
  Gr = Hr - T Sr
- Hr = 2*Hf(NH3) - 3*Hf(H2)- Hf(N2) = 2*(-4261) - 3*(-32011)-(32990) = 54521 cal/mol
+ Hr = 2*Hf(NH3) - 3*Hf(H2)- Hf(N2) = 2*(-4261) - 3*(0)-(0) = -8522 cal/mol
  Sr = 2*S(NH3) - 3*S(H2)- S(N2) = 2*45.8425 - 3*31.2178 - 45.8337 = -47.8021 cal/mol
  
- Gr=Hr-T*Sr = 54521 - 298*(-47.8021) = 68766.0258 cal/mol = 287717.051947 J/mol = 287.7 kJ/mol !!!!!
+ Gr=Hr-T*Sr = -8522  - 298*(-47.8021) =  5723.0258 cal/mol = 23961.154049 J/mol = 23.961 kJ/mol !!!!
  
  K=exp(-287717.0519/(8.314*298))= 3.68108E-51 ???
  
