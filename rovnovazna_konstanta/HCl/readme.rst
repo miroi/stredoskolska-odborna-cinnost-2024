@@ -1,0 +1,4 @@
+HCl Gibbsova volna energia
+===========================
+
+
