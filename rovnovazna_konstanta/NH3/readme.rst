@@ -25,13 +25,13 @@ Gr = - RTlnK => K = exp(-Gr/(RT))
 - The heat of formation, ΔHf, of an element in its standard state (298K, 1 atmosphere pressure) is zero.
 - The free energy of formation, ΔFf, of an element in its standard state is zero. 
  
+ https://chemed.chem.purdue.edu/genchem/topicreview/bp/ch21/problems/ex21_5s.html
+ 
  Gr = Hr - T Sr
- Hr = 2*Hf(NH3) - 3*Hf(H2)- Hf(N2) = 2*(-4261) - 3*(0)-(0) = -8522 cal/mol
- Sr = 2*S(NH3) - 3*S(H2)- S(N2) = 2*45.8425 - 3*31.2178 - 45.8337 = -47.8021 cal/mol
+ Hr = 2*Hf(NH3) - 3*Hf(H2)- Hf(N2) = 2*(-4261) - 3*(0)-(0) = -8522 cal/mol = -35.67989 kJ/mol (exp. -92.22kJ)
+ Sr = 2*S(NH3) - 3*S(H2)- S(N2) = 2*45.8425 - 3*31.2178 - 45.8337 = -47.8021 cal/mol = -200.128953 J/K/mol (exp. -198.75 J/K)
  
  Gr=Hr-T*Sr = -8522  - 298*(-47.8021) =  5723.0258 cal/mol = 23961.154049 J/mol = 23.961 kJ/mol !!!!
- 
- K=exp(-287717.0519/(8.314*298))= 3.68108E-51 ???
  
  see https://scilearn.sydney.edu.au/firstyear/exams/chem1101/2012answers/2012-N-11.pdf 
  The standard Gibbs free energy of formation for ammonia, NH3(g), is –16.4 kJ/mol
