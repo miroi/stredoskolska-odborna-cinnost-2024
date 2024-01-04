@@ -2,7 +2,7 @@ Reakcia 2NO2(g) = N2O4(g)
 =========================
 
 https://www.toppr.com/ask/question/kc-for-the-reaction-n2o4gleftrightharpoons-2no2-is-463-times-103-at-25/ :
-K=1/(4.63*0.001)=215.9827212 pri 25oC
+Kc=1/(4.63*0.001)=215.9827212 pri 25oC
 
 
 exp data:
