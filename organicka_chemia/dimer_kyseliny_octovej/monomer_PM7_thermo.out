@@ -10,7 +10,7 @@
                               PM7 CALCULATION RESULTS
 
  *******************************************************************************
- *  CALCULATION DONE:                                Sat Dec 23 21:14:25 2023  *
+ *  CALCULATION DONE:                                Sun Jan  7 21:14:01 2024  *
  *  PM7        - The PM7 Hamiltonian to be used
  *  SINGLET    - SPIN STATE DEFINED AS A SINGLET
  *
@@ -78,26 +78,26 @@
 
           DIAGONAL MATRIX USED AS START HESSIAN
 
- CYCLE:     1 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    60.743 HEAT: -99.47641
- CYCLE:     2 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    75.084 HEAT: -100.1008
- CYCLE:     3 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    42.229 HEAT: -101.0502
- CYCLE:     4 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    40.944 HEAT: -101.3619
- CYCLE:     5 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    38.621 HEAT: -101.5111
- CYCLE:     6 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    20.191 HEAT: -101.9082
- CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    10.975 HEAT: -102.0427
+ CYCLE:     1 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    60.743 HEAT: -99.47641
+ CYCLE:     2 TIME:   0.023 TIME LEFT:  2.00D  GRAD.:    75.084 HEAT: -100.1008
+ CYCLE:     3 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    42.229 HEAT: -101.0502
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    40.944 HEAT: -101.3619
+ CYCLE:     5 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    38.621 HEAT: -101.5111
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.191 HEAT: -101.9082
+ CYCLE:     7 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    10.975 HEAT: -102.0427
  CYCLE:     8 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     9.945 HEAT: -102.0853
- CYCLE:     9 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     3.991 HEAT: -102.1338
+ CYCLE:     9 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.991 HEAT: -102.1338
  CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.246 HEAT: -102.1502
- CYCLE:    11 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     3.723 HEAT: -102.1646
- CYCLE:    12 TIME:   0.023 TIME LEFT:  2.00D  GRAD.:     2.853 HEAT: -102.1763
+ CYCLE:    11 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.723 HEAT: -102.1646
+ CYCLE:    12 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     2.853 HEAT: -102.1763
  CYCLE:    13 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     1.950 HEAT: -102.1859
- CYCLE:    14 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     1.223 HEAT: -102.1922
- CYCLE:    15 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.902 HEAT: -102.1942
- CYCLE:    16 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.692 HEAT: -102.1960
+ CYCLE:    14 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.223 HEAT: -102.1922
+ CYCLE:    15 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.902 HEAT: -102.1942
+ CYCLE:    16 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.692 HEAT: -102.1960
  CYCLE:    17 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.369 HEAT: -102.1966
  CYCLE:    18 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.251 HEAT: -102.1968
- CYCLE:    19 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.185 HEAT: -102.1969
- CYCLE:    20 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.119 HEAT: -102.1970
+ CYCLE:    19 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     0.185 HEAT: -102.1969
+ CYCLE:    20 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.119 HEAT: -102.1970
  CYCLE:    21 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.057 HEAT: -102.1970
  CYCLE:    22 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.029 HEAT: -102.1970
 
@@ -117,7 +117,7 @@
 
                               PM7 CALCULATION
                                                        MOPAC v22.1.0 Windows
-                                                       Sat Dec 23 21:14:25 2023
+                                                       Sun Jan  7 21:14:01 2024
 
 
 
@@ -144,8 +144,8 @@
 
           SCF CALCULATIONS        =         26
  
-          WALL-CLOCK TIME         =      0.227 SECONDS
-          COMPUTATION TIME        =      0.187 SECONDS
+          WALL-CLOCK TIME         =      0.266 SECONDS
+          COMPUTATION TIME        =      1.391 SECONDS
 
 
 
@@ -164,10 +164,10 @@
 
                              CARTESIAN COORDINATES
 
-   1    C       -7.652604608     1.620139073    -0.122378186
+   1    C       -7.652604608     1.620139073    -0.122378187
    2    C       -6.206875821     1.894582461     0.080540469
-   3    H       -8.098642335     2.341418428    -0.825400287
-   4    H       -8.209299857     1.679166439     0.827461045
+   3    H       -8.098642335     2.341418427    -0.825400287
+   4    H       -8.209299858     1.679166440     0.827461045
    5    H       -7.818026209     0.605633334    -0.521018636
    6    O       -5.527558889     2.768992962    -0.387597336
    7    O       -5.665862915     0.977385374     0.928276893
@@ -227,7 +227,7 @@
                               PM7 CALCULATION RESULTS
 
  *******************************************************************************
- *  CALCULATION DONE:                                Sat Dec 23 21:14:26 2023  *
+ *  CALCULATION DONE:                                Sun Jan  7 21:14:01 2024  *
  *  PM7        - The PM7 Hamiltonian to be used
  *  OLDGEO     - PREVIOUS GEOMETRY TO BE USED
  *  PRECISE    - TIGHTER CRITERIA TO BE USED
@@ -288,12 +288,12 @@ OLDGEO PRECISE PM7 THERMO
 
    NUMBER  ATOM         X            Y            Z
 
-     1       C      0.001827    -0.001390    -0.001333
-     2       C     -0.004263     0.001688     0.000246
+     1       C      0.001827    -0.001389    -0.001333
+     2       C     -0.004263     0.001687     0.000246
      3       H      0.013594    -0.001177     0.000371
      4       H      0.012643    -0.007470    -0.004318
      5       H     -0.006145    -0.002980     0.001629
-     6       O     -0.001254     0.007664    -0.000371
+     6       O     -0.001254     0.007663    -0.000371
      7       O     -0.003251     0.004143    -0.005564
      8       H     -0.013152    -0.000479     0.009339
  
@@ -336,30 +336,30 @@ OLDGEO PRECISE PM7 THERMO
 
     FOR POINT-GROUP Cs   THERE ARE   2 UNIQUE SYMMETRY FUNCTIONS.
 
- STEP:   1 TIME =     0.02 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.98
- STEP:   2 TIME =     0.03 SECS, INTEGRAL =      0.05 TIME LEFT: 172799.95
- STEP:   3 TIME =     0.02 SECS, INTEGRAL =      0.06 TIME LEFT: 172799.94
- STEP:   4 TIME =     0.02 SECS, INTEGRAL =      0.09 TIME LEFT: 172799.91
- STEP:   5 TIME =     0.02 SECS, INTEGRAL =      0.11 TIME LEFT: 172799.89
- STEP:   6 TIME =     0.02 SECS, INTEGRAL =      0.13 TIME LEFT: 172799.87
- STEP:   7 TIME =     0.02 SECS, INTEGRAL =      0.15 TIME LEFT: 172799.85
- STEP:   8 TIME =     0.02 SECS, INTEGRAL =      0.16 TIME LEFT: 172799.84
- STEP:   9 TIME =     0.02 SECS, INTEGRAL =      0.18 TIME LEFT: 172799.82
- STEP:  10 TIME =     0.03 SECS, INTEGRAL =      0.21 TIME LEFT: 172799.79
- STEP:  11 TIME =     0.02 SECS, INTEGRAL =      0.23 TIME LEFT: 172799.77
- STEP:  12 TIME =     0.02 SECS, INTEGRAL =      0.25 TIME LEFT: 172799.75
- STEP:  13                       INTEGRAL =      0.25 TIME LEFT: 172799.75
- STEP:  14                       INTEGRAL =      0.25 TIME LEFT: 172799.75
- STEP:  15                       INTEGRAL =      0.25 TIME LEFT: 172799.75
- STEP:  16 TIME =     0.02 SECS, INTEGRAL =      0.27 TIME LEFT: 172799.73
- STEP:  17 TIME =     0.02 SECS, INTEGRAL =      0.28 TIME LEFT: 172799.72
- STEP:  18 TIME =     0.02 SECS, INTEGRAL =      0.30 TIME LEFT: 172799.70
- STEP:  19 TIME =     0.03 SECS, INTEGRAL =      0.33 TIME LEFT: 172799.67
- STEP:  20 TIME =     0.00 SECS, INTEGRAL =      0.33 TIME LEFT: 172799.67
- STEP:  21 TIME =     0.02 SECS, INTEGRAL =      0.35 TIME LEFT: 172799.65
- STEP:  22 TIME =     0.02 SECS, INTEGRAL =      0.37 TIME LEFT: 172799.63
- STEP:  23 TIME =     0.02 SECS, INTEGRAL =      0.39 TIME LEFT: 172799.61
- STEP:  24 TIME =     0.01 SECS, INTEGRAL =      0.40 TIME LEFT: 172799.60
+ STEP:   1 TIME =     0.04 SECS, INTEGRAL =      0.04 TIME LEFT: 172799.96
+ STEP:   2 TIME =     0.04 SECS, INTEGRAL =      0.08 TIME LEFT: 172799.92
+ STEP:   3 TIME =     0.05 SECS, INTEGRAL =      0.12 TIME LEFT: 172799.88
+ STEP:   4 TIME =     0.03 SECS, INTEGRAL =      0.16 TIME LEFT: 172799.84
+ STEP:   5 TIME =     0.05 SECS, INTEGRAL =      0.20 TIME LEFT: 172799.80
+ STEP:   6 TIME =     0.04 SECS, INTEGRAL =      0.24 TIME LEFT: 172799.76
+ STEP:   7 TIME =     0.07 SECS, INTEGRAL =      0.31 TIME LEFT: 172799.69
+ STEP:   8 TIME =     0.05 SECS, INTEGRAL =      0.37 TIME LEFT: 172799.63
+ STEP:   9 TIME =     0.04 SECS, INTEGRAL =      0.41 TIME LEFT: 172799.59
+ STEP:  10 TIME =     0.05 SECS, INTEGRAL =      0.45 TIME LEFT: 172799.55
+ STEP:  11 TIME =     0.04 SECS, INTEGRAL =      0.49 TIME LEFT: 172799.51
+ STEP:  12 TIME =     0.03 SECS, INTEGRAL =      0.52 TIME LEFT: 172799.48
+ STEP:  13                       INTEGRAL =      0.52 TIME LEFT: 172799.48
+ STEP:  14                       INTEGRAL =      0.52 TIME LEFT: 172799.48
+ STEP:  15                       INTEGRAL =      0.52 TIME LEFT: 172799.48
+ STEP:  16 TIME =     0.04 SECS, INTEGRAL =      0.56 TIME LEFT: 172799.44
+ STEP:  17 TIME =     0.04 SECS, INTEGRAL =      0.60 TIME LEFT: 172799.40
+ STEP:  18 TIME =     0.04 SECS, INTEGRAL =      0.64 TIME LEFT: 172799.36
+ STEP:  19 TIME =     0.04 SECS, INTEGRAL =      0.68 TIME LEFT: 172799.32
+ STEP:  20 TIME =     0.04 SECS, INTEGRAL =      0.72 TIME LEFT: 172799.28
+ STEP:  21 TIME =     0.04 SECS, INTEGRAL =      0.76 TIME LEFT: 172799.24
+ STEP:  22 TIME =     0.04 SECS, INTEGRAL =      0.80 TIME LEFT: 172799.20
+ STEP:  23 TIME =     0.05 SECS, INTEGRAL =      0.84 TIME LEFT: 172799.16
+ STEP:  24 TIME =     0.04 SECS, INTEGRAL =      0.88 TIME LEFT: 172799.12
 
 (To convert to Hartree/Bohr^2, multiply by (10^(-21) x N x a0^2)/(4.184 x 627.51) =  0.0642)
 
@@ -370,7 +370,7 @@ OLDGEO PRECISE PM7 THERMO
                   C  1       C  2       H  3       H  4       H  5       O  6
  ------------------------------------------------------------------------------
      C    1  11.706815
-     C    2   3.784497  18.989075
+     C    2   3.784497  18.989074
      H    3   3.396384   0.781236   4.186866
      H    4   3.375944   0.786755   0.444936   4.168718
      H    5   3.377170   0.785099   0.444430   0.452186   4.168718
@@ -760,17 +760,17 @@ OLDGEO PRECISE PM7 THERMO
                                    KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
 
 
- 298.00  VIB.     0.2180D+01                   977.8041     8.6037     4.8299
+ 298.00  VIB.     0.2180D+01                   977.8042     8.6037     4.8299
          ROT.     0.3617D+05                   888.2803     2.9808    23.8382
-         INT.     0.7884D+05                  1866.0844    11.5845    28.6681
+         INT.     0.7884D+05                  1866.0845    11.5845    28.6681
          TRA.     0.4499D+27                  1480.4672     4.9680    38.1957
          TOT.                     -102.197    3346.5516    16.5525    66.8638
 
- 200.00  VIB.     0.1355D+01                   318.3660     4.8478     2.1962
+ 200.00  VIB.     0.1355D+01                   318.3661     4.8478     2.1962
          ROT.     0.1988D+05                   596.1613     2.9808    22.6496
          INT.     0.2695D+05                   914.5273     7.8286    24.8457
          TRA.     0.2474D+27                   993.6021     4.9680    36.2146
-         TOT.                     -103.635    1908.1294    12.7967    61.0603
+         TOT.                     -103.635    1908.1295    12.7967    61.0603
 
  210.00  VIB.     0.1412D+01                   368.7700     5.2328     2.4420
          ROT.     0.2139D+05                   625.9693     2.9808    22.7950
@@ -796,31 +796,31 @@ OLDGEO PRECISE PM7 THERMO
          TRA.     0.3252D+27                  1192.3226     4.9680    37.1203
          TOT.                     -103.093    2450.7593    14.3337    63.5294
 
- 250.00  VIB.     0.1695D+01                   608.8101     6.7685     3.4844
+ 250.00  VIB.     0.1695D+01                   608.8102     6.7685     3.4844
          ROT.     0.2779D+05                   745.2016     2.9808    23.3147
-         INT.     0.4712D+05                  1354.0117     9.7493    26.7991
+         INT.     0.4712D+05                  1354.0118     9.7493    26.7991
          TRA.     0.3457D+27                  1242.0027     4.9680    37.3231
          TOT.                     -102.948    2596.0144    14.7173    64.1223
 
  260.00  VIB.     0.1782D+01                   678.4120     7.1519     3.7573
          ROT.     0.2947D+05                   775.0097     2.9808    23.4316
-         INT.     0.5252D+05                  1453.4216    10.1327    27.1890
+         INT.     0.5252D+05                  1453.4217    10.1327    27.1890
          TRA.     0.3667D+27                  1291.6828     4.9680    37.5180
          TOT.                     -102.798    2745.1044    15.1007    64.7070
 
  270.00  VIB.     0.1876D+01                   751.8462     7.5349     4.0344
          ROT.     0.3119D+05                   804.8177     2.9808    23.5441
-         INT.     0.5850D+05                  1556.6639    10.5157    27.5786
+         INT.     0.5850D+05                  1556.6640    10.5157    27.5786
          TRA.     0.3880D+27                  1341.3629     4.9680    37.7055
          TOT.                     -102.646    2898.0268    15.4837    65.2841
 
  280.00  VIB.     0.1977D+01                   829.1086     7.9174     4.3154
          ROT.     0.3294D+05                   834.6258     2.9808    23.6525
-         INT.     0.6512D+05                  1663.7344    10.8982    27.9679
+         INT.     0.6512D+05                  1663.7344    10.8983    27.9679
          TRA.     0.4098D+27                  1391.0430     4.9680    37.8862
          TOT.                     -102.489    3054.7774    15.8663    65.8541
 
- 290.00  VIB.     0.2086D+01                   910.1923     8.2991     4.5999
+ 290.00  VIB.     0.2086D+01                   910.1924     8.2991     4.5999
          ROT.     0.3472D+05                   864.4339     2.9808    23.7571
          INT.     0.7243D+05                  1774.6262    11.2799    28.3570
          TRA.     0.4319D+27                  1440.7231     4.9680    38.0605
@@ -832,13 +832,13 @@ OLDGEO PRECISE PM7 THERMO
          TRA.     0.4544D+27                  1490.4032     4.9680    38.2289
          TOT.                     -102.164    3379.7326    16.6285    66.9748
 
- 310.00  VIB.     0.2332D+01                  1083.7805     9.0587     5.1784
+ 310.00  VIB.     0.2332D+01                  1083.7806     9.0587     5.1784
          ROT.     0.3837D+05                   924.0500     2.9808    23.9559
          INT.     0.8947D+05                  2007.8305    12.0395    29.1344
          TRA.     0.4774D+27                  1540.0833     4.9680    38.3918
          TOT.                     -101.996    3547.9138    17.0075    67.5262
 
- 320.00  VIB.     0.2469D+01                  1176.2542     9.4357     5.4720
+ 320.00  VIB.     0.2469D+01                  1176.2543     9.4357     5.4720
          ROT.     0.4024D+05                   953.8580     2.9808    24.0506
          INT.     0.9937D+05                  2130.1123    12.4165    29.5226
          TRA.     0.5006D+27                  1589.7634     4.9680    38.5496
@@ -852,13 +852,13 @@ OLDGEO PRECISE PM7 THERMO
 
  340.00  VIB.     0.2777D+01                  1372.4551    10.1826     6.0665
          ROT.     0.4408D+05                  1013.4742     2.9808    24.2313
-         INT.     0.1224D+06                  2385.9292    13.1634    30.2978
+         INT.     0.1224D+06                  2385.9293    13.1634    30.2978
          TRA.     0.5483D+27                  1689.1236     4.9680    38.8507
          TOT.                     -101.469    4075.0529    18.1314    69.1485
 
  350.00  VIB.     0.2950D+01                  1476.1286    10.5516     6.3670
          ROT.     0.4603D+05                  1043.2822     2.9808    24.3177
-         INT.     0.1358D+06                  2519.4108    13.5324    30.6847
+         INT.     0.1358D+06                  2519.4109    13.5324    30.6847
          TRA.     0.5727D+27                  1738.8037     4.9680    38.9947
          TOT.                     -101.285    4258.2146    18.5004    69.6794
 
@@ -876,7 +876,7 @@ OLDGEO PRECISE PM7 THERMO
 
  380.00  VIB.     0.3551D+01                  1809.0482    11.6373     7.2790
          ROT.     0.5208D+05                  1132.7064     2.9808    24.5628
-         INT.     0.1849D+06                  2941.7546    14.6181    31.8418
+         INT.     0.1849D+06                  2941.7547    14.6181    31.8418
          TRA.     0.6478D+27                  1887.8440     4.9680    39.4033
          TOT.                     -100.714    4829.5987    19.5862    71.2451
 
@@ -886,7 +886,7 @@ OLDGEO PRECISE PM7 THERMO
          TRA.     0.6736D+27                  1937.5242     4.9680    39.5324
          TOT.                     -100.516    5027.2332    19.9400    71.7585
 
- 400.00  VIB.     0.4034D+01                  2048.8581    12.3407     7.8939
+ 400.00  VIB.     0.4034D+01                  2048.8582    12.3407     7.8939
          ROT.     0.5624D+05                  1192.3226     2.9808    24.7157
          INT.     0.2269D+06                  3241.1807    15.3216    32.6096
          TRA.     0.6997D+27                  1987.2043     4.9680    39.6581
@@ -912,7 +912,7 @@ OLDGEO PRECISE PM7 THERMO
    NUMBER   SYMBOL  FORCE CONSTANT  FORCE CONSTANT  FORCE CONSTANT
 
       1       C        7.586669        6.621220        5.968433
-      2       C       12.651323       12.804908        2.805521
+      2       C       12.651322       12.804908        2.805521
       3       H        1.281933        3.542928        0.543321
       4       H        1.276136        1.379946        2.693764
       5       H        1.275681        1.262220        2.811946
@@ -928,6 +928,6 @@ OLDGEO PRECISE PM7 THERMO
 
 
 
- TOTAL JOB TIME:             0.92 SECONDS
+ TOTAL JOB TIME:             1.48 SECONDS
 
  == MOPAC DONE ==
