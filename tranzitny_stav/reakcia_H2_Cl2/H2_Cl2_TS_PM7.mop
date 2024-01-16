@@ -1,4 +1,4 @@
- AUX LARGE CHARGE=0 SINGLET  PM7  SADDLE GEO_DAT="SELF" GEO_REF="HCl_2.mop"
+ LARGE CHARGE=0 SINGLET  PM7  SADDLE GEO_DAT="H2_Cl2_TS_PM7.mop" GEO_REF="HCl_2molecules_endgeom.mop" GEO-OK
 Tranzitny stav H2 + Cl2
 
    H       -6.59210             1         2.07278             1         0.00000             1 
