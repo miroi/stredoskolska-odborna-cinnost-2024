@@ -21,5 +21,11 @@ sekund.                  primarny
 PM7
 778.96716 KJ/MOL       878.08763 KJ/MOL
 
+Co sa tyka ciastkovych nabojov, v primarnom karbokatione ma uhlik +0.34, no sekundarny uhlik v sekund. karbokatione ma  +0.46.
+
+A este co sa tyka stablizacie, tak v primarnom ma susedny sekund. uhlik  +0.34, no v sekund. karbokatione maju oba susedne primarne uhliky -0.58,
+a teda lepsie dokazu stabilizovat sekundarny karbokation indukcnym efektom.
+
+
 Adicia HBr na 2-metylpropen
 ---------------------------
