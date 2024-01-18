@@ -1,0 +1,226 @@
+ *******************************************************************************
+ **                                                                           **
+ **                              MOPAC v22.1.0                                **
+ **                                                                           **
+ *******************************************************************************
+ **          Digital Object Identifier (DOI): 10.5281/zenodo.6511958          **
+ **    Visit the DOI location for information on how to cite this program.    **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Thu Jan 18 11:25:18 2024  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  SINGLET    - SPIN STATE DEFINED AS A SINGLET
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = +1
+ *
+ *
+ *
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  LARGE      - EXPANDED OUTPUT TO BE PRINTED
+ *******************************************************************************
+  LARGE CHARGE=1 SINGLET  PM7
+ Na + 2H2O
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1      Na         -1.26920000  *   0.03969000  *   2.38633000  *
+     2       H         -3.32504000  *  -1.54779000  *   1.08943000  *
+     3       O         -3.56890000  *  -0.74665000  *   0.56094000  *
+     4       H         -4.48135000  *  -0.93783000  *   0.22714000  *
+     5       H          0.12337000  *   0.55104000  *   4.84445000  *
+     6       O          0.47573000  *   1.42740000  *   4.54703000  *
+     7       H         -0.33071000  *   1.95343000  *   4.31558000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1        Na         -1.2692      0.0397      2.3863
+     2         H         -3.3250     -1.5478      1.0894
+     3         O         -3.5689     -0.7467      0.5609
+     4         H         -4.4813     -0.9378      0.2271
+     5         H          0.1234      0.5510      4.8445
+     6         O          0.4757      1.4274      4.5470
+     7         H         -0.3307      1.9534      4.3156
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: H4 O2 Na  =     7 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+ SINGLET STATE CALCULATION
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 8
+
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.020 TIME LEFT:  2.00D  GRAD.:    64.214 HEAT:  45.71843
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    73.059 HEAT:  41.55276
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    61.432 HEAT:  31.90941
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    95.032 HEAT:  26.92694
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:   112.392 HEAT:  26.00954
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    64.250 HEAT:  18.85498
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    71.284 HEAT:  16.08205
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    34.111 HEAT:  13.50049
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    34.345 HEAT:  10.96360
+ CYCLE:    10 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    27.534 HEAT:  9.281864
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    24.109 HEAT:  8.518862
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    16.944 HEAT:  7.854076
+ CYCLE:    13 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    14.261 HEAT:  7.442340
+ CYCLE:    14 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    17.127 HEAT:  6.600627
+ CYCLE:    15 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    16.414 HEAT:  6.173548
+ CYCLE:    16 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    13.574 HEAT:  5.859634
+ CYCLE:    17 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    10.665 HEAT:  5.593559
+ CYCLE:    18 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.171 HEAT:  5.354418
+ CYCLE:    19 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.545 HEAT:  5.224026
+ CYCLE:    20 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.829 HEAT:  5.020170
+ CYCLE:    21 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.944 HEAT:  4.813870
+ CYCLE:    22 TIME:   0.020 TIME LEFT:  2.00D  GRAD.:     7.698 HEAT:  4.659460
+ CYCLE:    23 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.992 HEAT:  4.613896
+ CYCLE:    24 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.834 HEAT:  4.604440
+ CYCLE:    25 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.355 HEAT:  4.597255
+ CYCLE:    26 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.335 HEAT:  4.586297
+ CYCLE:    27 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.216 HEAT:  4.581331
+ CYCLE:    28 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     0.828 HEAT:  4.578418
+
+     GRADIENT =  0.82846 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ LARGE CHARGE=1 SINGLET  PM7
+ Na + 2H2O
+
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC v22.1.0 Windows
+                                                       Thu Jan 18 11:25:19 2024
+
+
+
+
+          FINAL HEAT OF FORMATION =          4.57842 KCAL/MOL =      19.15610 KJ/MOL
+
+
+          COSMO AREA              =        119.46 SQUARE ANGSTROMS
+          COSMO VOLUME            =        105.79 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =          0.82846          =       0.31313 PER ATOM
+          IONIZATION POTENTIAL    =         17.599222 EV
+          HOMO LUMO ENERGIES (EV) =        -17.599 -2.326
+          NO. OF FILLED LEVELS    =          8
+          MOLECULAR WEIGHT        =         59.0202         POINT GROUP:  Cs  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            H     7    H     2     6.08626
+            H     5    H     4     2.92199
+            H     4   Na     1     0.68127
+
+
+          SCF CALCULATIONS        =         29
+ 
+          WALL-CLOCK TIME         =      0.164 SECONDS
+          COMPUTATION TIME        =      0.125 SECONDS
+
+
+
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1      Na         -1.30097075  *   0.09872770  *   2.30244601  *
+     2       H         -3.36571329  *  -1.64627511  *   0.81435803  *
+     3       O         -3.16273375  *  -0.72653161  *   1.03261450  *
+     4       H         -3.88258866  *  -0.20529582  *   0.65215400  *
+     5       H          0.27099321  *   0.66859887  *   4.87956962  *
+     6       O         -0.14279431  *   1.11992067  *   4.13152152  *
+     7       H         -0.03860531  *   2.06477044  *   4.30736529  *
+
+                             CARTESIAN COORDINATES
+
+   1   Na       -1.300970745     0.098727697     2.302446013
+   2    H       -3.365713287    -1.646275110     0.814358029
+   3    O       -3.162733748    -0.726531611     1.032614500
+   4    H       -3.882588664    -0.205295821     0.652154005
+   5    H        0.270993213     0.668598867     4.879569618
+   6    O       -0.142794313     1.119920674     4.131521524
+   7    H       -0.038605312     2.064770443     4.307365287
+
+
+           Empirical Formula: H4 O2 Na  =     7 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+
+                  EIGENVALUES  
+ -34.37832 -34.23894 -22.95404 -22.90979 -20.30808 -19.80185 -17.65155 -17.59922
+  -2.32614  -2.06760  -0.85670  -0.12515   0.03497   1.02099   1.51794   1.53239
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1         Na           0.881494        0.1185     0.01773     0.10077
+    2          H           0.402128        0.5979     0.59787
+    3          O          -0.745076        6.7451     1.77338     4.97170
+    4          H           0.401646        0.5984     0.59835
+    5          H           0.402125        0.5979     0.59788
+    6          O          -0.744930        6.7449     1.77251     4.97242
+    7          H           0.402613        0.5974     0.59739
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.092    -0.050    -0.050     0.116
+ HYBRID        -0.064     0.011     0.048     0.081
+ SUM            0.029    -0.039    -0.002     0.048
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz   
+    1 Na   0.01773   0.04111   0.01690   0.04276
+    2  H   0.59787
+    3  O   1.77338   1.65790   1.43906   1.87474
+    4  H   0.59835
+    5  H   0.59788
+    6  O   1.77251   1.88612   1.44334   1.64296
+    7  H   0.59739
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:             0.16 SECONDS
+
+ == MOPAC DONE ==
