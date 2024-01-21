@@ -13,14 +13,16 @@ dH =  2*121.27413 -  20.64292 = 221.90534 kJ/mol
 
 propagacia
 
-CH4  +  Cl.  = CH3.  + HCl 
+
 
 Hf PM7 PRECISE (in kJ/mol)
 CH4                  -60.26806 
 Cl.  RHF             121.27413 
 CH3. RHF             118.36259
-HCl
+HCl                  -85.71410 
+CH3Cl               -69.18735 
 
+CH4  +  Cl.  = CH3.  + HCl 
 
 CH3. + Cl2 = CH3Cl + Cl.
 
