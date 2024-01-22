@@ -13,7 +13,7 @@ Rb 403
 Cs 375.7	
 
 
-PM7
+PRECISE PM7
 
 Na (s1)
 
