@@ -9,8 +9,9 @@ Br 324
 
 Vypocty PM7, PRECISE, RHF
 
-F:   
-F-:   
+F:     79.03576 KJ/MOL
+F-:    -245.39356 KJ/MOL
+EA = -245.39356-79.03576 = -324.42932 kJ/mol (exp. -331)
 
 Cl:    
 Cl-:   
