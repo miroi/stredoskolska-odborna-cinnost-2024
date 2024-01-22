@@ -9,3 +9,12 @@ Br 324
 
 Vypocty PM7, PRECISE, RHF
 
+F:   
+F-:   
+
+Cl:    
+Cl-:   
+
+Br:   
+Br-:  
+
