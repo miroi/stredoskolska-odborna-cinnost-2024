@@ -15,6 +15,10 @@ Cs 375.7
 
 PRECISE PM7
 
+Li  (s1)            160.70744 KJ/MOL
+Li+ (s0)            624.23494 KJ/MOL
+IE(Li)=624.23494-160.70744 = 463.52750 kJ/mol  (exp. 520.2)
+
 Na (s1)            107.31960 KJ/MOL
 Na+ (s0)           668.42773 KJ/MOL 
 IE(Na) = E(Na+)-E(Na)=668.42773 - 107.31960 = 561.10813 kJ/mol (exp. 495.8 kJ/mol)
