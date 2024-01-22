@@ -15,9 +15,13 @@ Cs 375.7
 
 PRECISE PM7
 
-Na (s1)
+Na (s1)            107.31960 KJ/MOL
+Na+ (s0)           668.42773 KJ/MOL 
+IE(Na) = E(Na+)-E(Na)=668.42773 - 107.31960 = 561.10813 kJ/mol (exp. 495.8 kJ/mol)
 
-Na+ (s0)
+K(s1)        455.26434 KJ/MOL
+K+(s0)       561.24785 KJ/MOL
+IE(K) =  561.24785-455.26434 = 105.98351 kJ/mol  NEPRESNE!!! (exp. 418.8 kJ/mol)
 
 
 Na + Cl = Na(+)Cl(-)
