@@ -1,6 +1,8 @@
 Chloracia cyklohexanu
 ======================
 
+CH2-s109
+
 cyklohexan + Cl2 = chlorcyklohexan + HCl; Hr=?
 
 PM7, PRECISE Hf in kJ/mol
