@@ -1,4 +1,4 @@
- AUX LARGE CHARGE=0 SINGLET  PM7 PRECISE GRAPHF
+ LARGE CHARGE=0 SINGLET  PM7 PRECISE 
 CH3NO2 PM7
 
    C       -6.14075             1        -1.06383             1        -0.04011             1 
@@ -9,4 +9,6 @@ CH3NO2 PM7
    O       -4.29749             1        -2.15808             1         0.65209             1 
    O       -4.29749             1         0.07797             1         0.57049             1 
 
+OLDGEO CHARGE=0 SINGLET PRECISE PM7 THERMO 
+nitrometan
 
