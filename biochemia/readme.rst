@@ -18,6 +18,12 @@ Proteíny sa viažu na toto centrálne jadro a pomáhajú stabilizovať jeho kon
 
 4V42
 ----
+..
+
+
+
+https://www.rcsb.org/structure/6TNA
+
 
 
 
