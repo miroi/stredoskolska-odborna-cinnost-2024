@@ -12,7 +12,7 @@ b) cyklopropan + Cl2 = Cl-CH2CH2CH2-Cl;  Hr=?
 
 Hf PM7, PRECISE, in kJ/mol
                               Hf                 S (CAL/K/MOL)
-cyklopropan                 50.28166              56.5175
+cyklopropan                 50.28166              56.5175 = 236,46922 J/K/MOL
 chlorcyklopropan            21.70806              67.5924
 Cl2                        20.64292               53.0798
 HCl                        -85.71410              44.5994
