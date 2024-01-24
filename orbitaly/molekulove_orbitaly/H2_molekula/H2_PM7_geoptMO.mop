@@ -1,7 +1,7 @@
- PRECISE LARGE CHARGE=0 SINGLET PM7 GRAPHF ALLVEC
-Molekula H2(UFF geometry)
+ AUX LARGE CHARGE=0 SINGLET  PM7 PRECISE ALLVEC GRAPHF 
+H2 molecule
 
-   H       -2.42700             0         0.49419             0        -0.00000             0 
-   H       -1.72071             0         0.44508             0         0.00000             0 
+   H       0.0             1         0.0             1         0.00000             1 
+   H       0.0             1         0.0             1         0.800               1 
 
 
