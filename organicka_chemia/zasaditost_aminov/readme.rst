@@ -17,7 +17,7 @@ Hodnoty naboja nekoresponduju s poradim zasaditosti !
 
 Skusim protonove afinity
 
-R-NH2 + H+ = R-NH3(+), dG = dH - Tds
+R-NH2 + H+ = R-NH3(+), dG = dH - TdS
 
 
               H/kJ.mol-1     S /CAL/K/MOL / kJ/K/mol      G/kJ.mol-1
@@ -34,3 +34,6 @@ H(+)          1286.09820        26.0120 / 0.10883
 
 
 ( konverter https://www.convertunits.com/from/calorie/mole/to/kJ/mol)
+
+Spracovanie dat ukazalo Gibbsove energie protonizacii  -611.4 kJ/mol pre metylamin (pKb=3.38),
+-586.4 kJ/mol pre amoniak (pKb=4.75) a -601.9 kJ/mol pre anilín (pKb=9.38). 
