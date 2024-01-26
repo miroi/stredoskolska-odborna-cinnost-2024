@@ -22,7 +22,7 @@ R-NH2 + H+ = R-NH3(+), dG = dH - Tds
 
               H/kJ.mol-1     S /CAL/K/MOL / kJ/K/mol      G/kJ.mol-1
 metylamin    -14.37655          57.9848/ 0.2426 
-metylamonium
+metylamonium  626.04041         56.5333 / 0.23653532 
 
 amoniak      -17.82649          45.8425/ 0.1918
 amonium
