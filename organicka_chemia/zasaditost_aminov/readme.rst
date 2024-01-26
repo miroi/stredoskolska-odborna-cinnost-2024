@@ -37,3 +37,11 @@ H(+)          1286.09820        26.0120 / 0.10883
 
 Spracovanie dat ukazalo Gibbsove energie protonizacii  -611.4 kJ/mol pre metylamin (pKb=3.38),
 -586.4 kJ/mol pre amoniak (pKb=4.75) a -601.9 kJ/mol pre anilín (pKb=9.38). 
+
+Entalpie protonacii - protonove afinbity PM7,PRECISE - 
+su -645.7 pre metylamin, -628.9 pre anilin a -602.6 pre amoniak. 
+
+Tu su experimentalne PA (entalpie):
+Metylamin PA   899.0 kJ/mol  https://webbook.nist.gov/cgi/inchi?ID=C74895&Mask=20     
+Aniline PA     882.5 kJ/mol	 https://webbook.nist.gov/cgi/cbook.cgi?ID=C62533&Mask=20
+Amonium PA     853.6 kJ/mol  https://webbook.nist.gov/cgi/cbook.cgi?ID=C7664417&Mask=20
