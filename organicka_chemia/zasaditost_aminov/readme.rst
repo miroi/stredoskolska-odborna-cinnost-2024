@@ -20,7 +20,7 @@ Skusim protonove afinity
 R-NH2 + H+ = R-NH3(+), dG = dH - Tds
 
 
-              H/kJ.mol-1       S /CAL/K/MOL             G/kJ.mol-1
+              H/kJ.mol-1     S /CAL/K/MOL / kJ/K/mol      G/kJ.mol-1
 metylamin    -14.37655          57.9848/ 0.2426 
 metylamonium
 
@@ -28,8 +28,9 @@ amoniak      -17.82649          45.8425/ 0.1918
 amonium
 
 anilin        88.77526          76.1852 / 0.318758                     
-anilinium
+anilinium     746.00577         80.6022 / 0.3372396
 
+H(+)          1286.09820        26.0120 / 0.10883
 
 
 ( konverter https://www.convertunits.com/from/calorie/mole/to/kJ/mol)
