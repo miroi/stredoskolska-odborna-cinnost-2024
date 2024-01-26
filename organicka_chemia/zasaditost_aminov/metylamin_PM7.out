@@ -1,0 +1,214 @@
+ *******************************************************************************
+ **                                                                           **
+ **                              MOPAC v22.1.0                                **
+ **                                                                           **
+ *******************************************************************************
+ **          Digital Object Identifier (DOI): 10.5281/zenodo.6511958          **
+ **    Visit the DOI location for information on how to cite this program.    **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Jan 26 10:21:06 2024  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  SINGLET    - SPIN STATE DEFINED AS A SINGLET
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = 0
+ *
+ *
+ *
+ *  PRECISE    - TIGHTER CRITERIA TO BE USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  LARGE      - EXPANDED OUTPUT TO BE PRINTED
+ *******************************************************************************
+ PRECISE LARGE CHARGE=0 SINGLET  PM7
+ metylamin, PM7
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         -6.27932000  *   1.13887000  *   0.01337000  *
+     2       N         -4.82241000  *   1.15321000  *  -0.00781000  *
+     3       H         -6.68679000  *   1.71889000  *  -0.84319000  *
+     4       H         -6.64469000  *   1.58524000  *   0.96217000  *
+     5       H         -6.64469000  *   0.09216000  *  -0.04887000  *
+     6       H         -4.49264000  *   2.14456000  *   0.03899000  *
+     7       H         -4.49264000  *   0.74173000  *  -0.91094000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C         -6.2793      1.1389      0.0134
+     2         N         -4.8224      1.1532     -0.0078
+     3         H         -6.6868      1.7189     -0.8432
+     4         H         -6.6447      1.5852      0.9622
+     5         H         -6.6447      0.0922     -0.0489
+     6         H         -4.4926      2.1446      0.0390
+     7         H         -4.4926      0.7417     -0.9109
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: C H5 N  =     7 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+
+ SINGLET STATE CALCULATION
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 7
+
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.020 TIME LEFT:  2.00D  GRAD.:    50.924 HEAT: -1.630472
+ CYCLE:     2 TIME:   0.012 TIME LEFT:  2.00D  GRAD.:    32.790 HEAT: -2.546808
+ CYCLE:     3 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    25.921 HEAT: -2.803744
+ CYCLE:     4 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:    29.295 HEAT: -2.886070
+ CYCLE:     5 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    22.416 HEAT: -3.072670
+ CYCLE:     6 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:    19.255 HEAT: -3.202804
+ CYCLE:     7 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     5.866 HEAT: -3.358409
+ CYCLE:     8 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     7.871 HEAT: -3.394313
+ CYCLE:     9 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     3.139 HEAT: -3.427512
+ CYCLE:    10 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     1.426 HEAT: -3.432638
+ CYCLE:    11 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     1.021 HEAT: -3.434376
+ CYCLE:    12 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.606 HEAT: -3.435660
+ CYCLE:    13 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     0.153 HEAT: -3.436044
+ CYCLE:    14 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     0.065 HEAT: -3.436074
+ CYCLE:    15 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     0.037 HEAT: -3.436078
+
+     GRADIENT =  0.03658 IS LESS THAN CUTOFF =  0.05000
+
+
+
+ -------------------------------------------------------------------------------
+ PRECISE LARGE CHARGE=0 SINGLET  PM7
+ metylamin, PM7
+
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC v22.1.0 Windows
+                                                       Fri Jan 26 10:21:06 2024
+
+
+
+
+          FINAL HEAT OF FORMATION =         -3.43608 KCAL/MOL =     -14.37655 KJ/MOL
+
+
+          COSMO AREA              =         70.75 SQUARE ANGSTROMS
+          COSMO VOLUME            =         51.97 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =          0.03658          =       0.01382 PER ATOM
+          IONIZATION POTENTIAL    =          9.482132 EV
+          HOMO LUMO ENERGIES (EV) =         -9.482  3.572
+          NO. OF FILLED LEVELS    =          7
+          MOLECULAR WEIGHT        =         31.0572         POINT GROUP:  Cs  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            H     6    H     5     2.96292
+            H     7    H     4     2.78840
+            N     2    H     3     1.71296
+
+
+          SCF CALCULATIONS        =         17
+ 
+          WALL-CLOCK TIME         =      0.188 SECONDS
+          COMPUTATION TIME        =      0.406 SECONDS
+
+
+
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         -6.29099392  *   1.14767594  *   0.00043936  *
+     2       N         -4.81411542  *   1.16172201  *  -0.02023533  *
+     3       H         -6.76478243  *   1.70452865  *  -0.82107857  *
+     4       H         -6.64025897  *   1.57126253  *   0.95745025  *
+     5       H         -6.64065022  *   0.10198206  *  -0.03843415  *
+     6       H         -4.45326147  *   2.09844739  *   0.05307379  *
+     7       H         -4.45311861  *   0.74422901  *  -0.86189388  *
+
+                             CARTESIAN COORDINATES
+
+   1    C       -6.290993924     1.147675942     0.000439365
+   2    N       -4.814115418     1.161722005    -0.020235331
+   3    H       -6.764782428     1.704528655    -0.821078574
+   4    H       -6.640258967     1.571262534     0.957450248
+   5    H       -6.640650219     0.101982061    -0.038434145
+   6    H       -4.453261472     2.098447385     0.053073790
+   7    H       -4.453118606     0.744229013    -0.861893879
+
+
+           Empirical Formula: C H5 N  =     7 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+
+                  EIGENVALUES  
+ -35.28399 -23.67069 -17.04092 -15.48140 -14.18590 -12.75637  -9.48213   3.57189
+   5.36689   5.43418   6.07530   6.56424   7.09416
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C          -0.268915        4.2689     1.05872     3.21019
+    2          N          -0.620999        5.6210     1.63820     3.98279
+    3          H           0.111854        0.8881     0.88815
+    4          H           0.146966        0.8530     0.85303
+    5          H           0.146924        0.8531     0.85308
+    6          H           0.242090        0.7579     0.75791
+    7          H           0.242081        0.7579     0.75792
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -0.879     0.455    -0.673     1.197
+ HYBRID         0.002     0.561    -0.830     1.001
+ SUM           -0.877     1.015    -1.503     2.015
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz   
+    1  C   1.05872   0.89213   1.16606   1.15200
+    2  N   1.63820   1.13431   1.33713   1.51135
+    3  H   0.88815
+    4  H   0.85303
+    5  H   0.85308
+    6  H   0.75791
+    7  H   0.75792
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:             0.20 SECONDS
+
+ == MOPAC DONE ==
