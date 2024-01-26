@@ -9,4 +9,5 @@ metylamin, PM7
    H       -4.49264             1         2.14456             1         0.03899             1 
    H       -4.49264             1         0.74173             1        -0.91094             1 
 
-
+OLDGEO CHARGE=0 SINGLET PRECISE PM7 THERMO
+anilin, PM7
