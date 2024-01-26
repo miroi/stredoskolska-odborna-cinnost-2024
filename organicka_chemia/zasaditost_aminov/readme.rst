@@ -21,11 +21,15 @@ R-NH2 + H+ = R-NH3(+), dG = dH - Tds
 
 
               H/kJ.mol-1       S /CAL/K/MOL             G/kJ.mol-1
-metylamin    
+metylamin    -14.37655          57.9848/ 0.2426 
 metylamonium
 
-amoniak                         45.8425 
+amoniak      -17.82649          45.8425/ 0.1918
 amonium
 
-anilin  
+anilin        88.77526          76.1852 / 0.318758                     
 anilinium
+
+
+
+( konverter https://www.convertunits.com/from/calorie/mole/to/kJ/mol)
