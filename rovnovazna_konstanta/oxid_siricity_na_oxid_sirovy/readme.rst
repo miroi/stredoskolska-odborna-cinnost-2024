@@ -18,6 +18,6 @@ PM7(O2, triplet, RHF) =   -35.54888 KJ/MOL   TAKEN AS ZERO
 podla http://openmopac.net/manual/gibbs.html 
 Hf(O2)=0!!!
 
-H(PM7)=2*(-424.46197) - 2*(-272.79571) =  kJ/mol (exp. -196)
+H(PM7)=2*(-424.46197) - 2*(-272.79571) = -303.33252 kJ/mol (exp. -196)
 
 
