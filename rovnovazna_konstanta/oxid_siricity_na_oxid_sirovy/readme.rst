@@ -22,40 +22,40 @@ H(PM7)=2*(-424.46197) - 2*(-272.79571) = -303.33252 kJ/mol (exp. -196)
 
 
 CH1-137
-*10. Určte, či bude hodnota rovnovážnej konštanty reakcie:
-2SO2(g) + O2(g)= 2SO3(g) ΔH < 0
+*10. Určte, či bude hodnota rovnovážnej konštanty reakcie: 2SO2(g) + O2(g)= 2SO3(g) ΔH < 0
 vyššia pri teplote 25 °C alebo pri 100 °C. Odpoveď zdôvodnite.
 
 298K:
 ~~~~
-H(SO3)=
-S(SO3)=
-G(SO3)=H(SO3)-298*S(SO3)
+H(SO3)=-101.449 KCAL/MOL
+S(SO3)= 61.9012 CAL/K/MOL
+G(SO3)=H(SO3)-298*S(SO3)=-101.449*1000-298*61.9012 = -119,8955576  KCAL/MOL
 
-H(SO2)=
-S(SO2)=
-G(SO2)=H(SO2)-298*S(SO2)
+H(SO2)= -65.200 KCAL/MOL
+S(SO2)=  59.7797 CAL/K/MOL
+G(SO2)=H(SO2)-298*S(SO2) = -65.200*1000-298*59.7797 = -83,0143506 KCAL/MOL
 
 H(O2)=0
-S(O2)=
-G(O2)=-298*S(O2)
+S(O2)=46.5424 CAL/K/MOL
+G(O2)=-298*S(O2) = -298*46.5424 = -13,8696352 KCAL/MOL
 
-Gr(298)=2*G(SO3)-2*G(SO2)-G(O2)
+Gr(298)=2*G(SO3)-2*G(SO2)-G(O2)=2*(-119,8955576)-2*(-83,0143506)-(-13,8696352)= -598,927788 KCAL/MOL
 
 370K:
 ~~~~~
-H(SO3)=
-S(SO3)=
-G(SO3)=H(SO3)-370*S(SO3)
+H(SO3)= -100.485 KCAL/MOL
+S(SO3)= 64.7945 CAL/K/MOL
+G(SO3)=H(SO3)-370*S(SO3)=-100.485*1000-370*64.7945 = -124,458965 kcal/mol
 
-H(SO2)=
-S(SO2)=
-G(SO2)=H(SO2)-370*S(SO2)
+H(SO2)= -64.455  KCAL/MOL
+S(SO2)=  62.0160 CAL/K/MOL
+G(SO2)=H(SO2)-370*S(SO2) = -64.455*1000-370*62.0160 = -87,40092 kcal/mol
 
 H(O2)=0
-S(O2)=
-G(O2)=-370*S(O2)
+S(O2)= 48.0682  CAL/K/MOL
+G(O2)=-370*S(O2)=-370*48.0682 = -17,785234 kcal/mol
 
-Gr(370)=2*G(SO3)-2*G(SO2)-G(O2)
+Gr(370)=2*G(SO3)-2*G(SO2)-G(O2) = 2*(-124,458965)-2*(-87,40092)-(-17,785234)=-213,652,512  KCAL/MOL
 
-
+"10. Hodnota rovnovážnej konštanty je vyššia pri nižšej teplote, lebo pri vyššej teplote je
+rovnováha posunutá na stranu reaktantov"
