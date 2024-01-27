@@ -25,6 +25,6 @@ https://socratic.org/questions/what-is-the-heat-for-the-following-reaction-2so-g
 
 Hf(O2)=0!!!
 
-H(PM7)=2*(-424.46197) - 2*(-272.79571) = -303.33252 kJ/mol (exp. 196)
+H(PM7)=2*(-424.46197) - 2*(-272.79571) = -303.33252 kJ/mol (exp. -196)
 
 Hr(exp) = 2*(−395.7)- 2*(−296.84) = -197.72 kJ/mol
