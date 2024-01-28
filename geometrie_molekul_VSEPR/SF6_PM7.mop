@@ -1,4 +1,4 @@
- PRECISE LARGE CHARGE=0 SINGLET  PM7
+ PRECISE LARGE CHARGE=0 SINGLET  PM7 LET DDMIN=0.0
 SF6  PM7
 
    S       -2.48684             1        -0.10197             1         0.00000             1 

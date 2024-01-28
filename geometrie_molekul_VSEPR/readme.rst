@@ -36,7 +36,10 @@ SF6
 ----
 UFF - planarna, zle !!!
 MMFF94s - neforemny mnohosten, zle !!!
-PM7 - 
+
+PM7 - defaultne nedokoncena optimalizacia, LET DDMIN=0.0 da spravnu geometriu - tetragonalna bipyramida
+d(SF)eq=1.555A, d(SF)ax=1.555A,  Hf=-1219.12687 KJ/MOL
+exp: ....
 
 [Fe(CN)6](3-)
 -------------
