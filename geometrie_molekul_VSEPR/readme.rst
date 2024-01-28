@@ -34,7 +34,9 @@ PM7 - trigonalna bipyramide(spravne!), d(PCl)eq=1.885A, d(PCl)ax=2.151A, Hf=-270
 
 SF6
 ----
-
+UFF - planarna, zle !!!
+MMFF94s - neforemny mnohosten, zle !!!
+PM7 - 
 
 [Fe(CN)6](3-)
 -------------
