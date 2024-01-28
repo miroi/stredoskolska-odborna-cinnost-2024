@@ -45,7 +45,7 @@ exp: ....
 -------------
 UFF - planarne, zle !!
 MMFF94s - manualne dotiahnute, tetragonalna bipyramida
-PM7 
+PM7, dublet 
 
 [Fe(CN)6](4-)
 -------------
