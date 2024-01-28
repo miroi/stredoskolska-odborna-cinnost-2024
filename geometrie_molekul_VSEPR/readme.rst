@@ -13,7 +13,8 @@ PM7  - trojuhl.planarna, d(BF)=1.305A,  Hf=-1135.18698 KJ/MOL (exp. ....)
 
 H2O
 ---
-
+UFF - lomena, HOH=104.5deg, d(OH)=0.990A
+PM7 - lomena, HOH=  deg, d(OH)=  A
 
 NH3
 ---
