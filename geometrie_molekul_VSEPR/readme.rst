@@ -4,18 +4,20 @@ Geometricke struktury molekul podla VSEPR
 BeCl2
 -----
 Avogadro - lomena !!!
-PM7 - linearna, d(BeCl)=1.811 A; Hf=-263.64421 KJ/MOL (exp. ....)
+PM7 - linearna, d(BeCl)=1.811 A; Hf=-263.64421 KJ/MOL (exp. -361.54	+- 3.20	kJ mol-1 https://cccbdb.nist.gov/)
+exp rBeCl	1.750+- 0.020 A
 
 BeF3
 ----
 UFF - trojuhl.planarna, d(BF)=1.444A
-PM7  - trojuhl.planarna, d(BF)=1.305A,  Hf=-1135.18698 KJ/MOL (exp. ....)
+PM7  - trojuhl.planarna, d(BF)=1.305A (exp 1.307 A)  Hf=-1135.18698 KJ/MOL (exp. -1136.00	+- 0.80	kJ mol-1 https://cccbdb.nist.gov)
 
 H2O
 ---
 UFF - lomena, HOH=104.5deg, d(OH)=0.990A,dip=1.195D
-PM7 - lomena, HOH=105.4 deg, d(OH)=0.955 A, dip=2.129 D; Hf=-241.83461 KJ/MOL
-(exp. data ... )
+PM7 - lomena, HOH=105.4 deg, d(OH)=0.955 A, dip=2.129 D (exp. 1.857 D); Hf=-241.83461 KJ/MOL
+(exp. data Hf = -241.81+-0.03 kJ mol-1 https://cccbdb.nist.gov/exp2x.asp )
+exp dOH =0.958 Å , exp. angle HOH = Experimental listed angle: = 104.4776 deg
 
 NH3
 ---
