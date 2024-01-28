@@ -7,4 +7,26 @@ Střední vazby 17-63 kJ/mol, například vodíkové vazby ve vodě (H2O) nebo s
 Slabé vazby < 17 kJ/mol, například vodíkové vazby v proteinech
 
 
+HF...HF
+-------
 
+antiparalelne:
+HF + HF = HF ... HF 
+
+Hf(2HF)=-522.35204 KJ/MOL
+Hf(HF)=-259.13887 KJ/MOL
+
+Hf=Hf(2HF)-2*Hf(HF)=-522.35204-2*(-259.13887)
+Hf=-4.0743 KJ/MOL
+
+2HF paralelne na ciare:
+Hf(2HF)=-522.29699 KJ/MOL
+
+H2O...H2O
+---------
+H2O + H2O = H2O...H2O
+Hf(2H2O)=-511.31956 KJ/MOL
+Hf(H2O)= -241.83461 KJ/MOL
+
+Hf=Hf(2H2O)-2*Hf(H2O)=-511.31956-2*(-241.83461)
+Hf=-27.65034 kJ/mol
