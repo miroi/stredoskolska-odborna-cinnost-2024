@@ -21,7 +21,8 @@ exp dOH =0.958 Å , exp. angle HOH = Experimental listed angle: = 104.4776 deg
 
 NH3
 ---
-
+PM7  dNH=0.955A, uhol HNH=110deg  Hf=-17.82649 KJ/MOL  dipole moment=2.184D
+exper.  dNH=1.012 Å  Experimental listed angle: = 106.67deg dipole moment = 1.476 D  Hf=-45.94 +-0.35 kJ.mol-1
 
 NH4+
 ----
