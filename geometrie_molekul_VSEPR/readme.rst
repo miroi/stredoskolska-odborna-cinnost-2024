@@ -43,7 +43,9 @@ exp: ....
 
 [Fe(CN)6](3-)
 -------------
-
+UFF - planarne, zle !!
+MMFF94s - manualne dotiahnute, tetragonalna bipyramida
+PM7 
 
 [Fe(CN)6](4-)
 -------------
