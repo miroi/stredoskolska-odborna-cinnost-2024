@@ -49,10 +49,12 @@ exp: ....
 UFF - planarne, zle !!
 MMFF94s - manualne dotiahnute, tetragonalna bipyramida
 PM7, dublet 
+d Fe-C = 1.924 A
 
 [Fe(CN)6](4-)
 -------------
-
+PM7, dublet 
+d Fe-C = 1.909 A
 
 
 
