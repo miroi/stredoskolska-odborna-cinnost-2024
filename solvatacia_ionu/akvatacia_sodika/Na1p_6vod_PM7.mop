@@ -1,4 +1,4 @@
- PRECISE LARGE CHARGE=1 SINGLET  PM7
+ PRECISE LARGE CHARGE=1 SINGLET  PM7 LET DDMIN=0.0
 Na(+) + 6H2O
 
   Na       -1.26920             1         0.03969             1         2.38633             1 
