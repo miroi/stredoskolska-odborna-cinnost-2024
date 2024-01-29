@@ -9,16 +9,15 @@ Slabé vazby < 17 kJ/mol, například vodíkové vazby v proteinech
 
 F(-)...HF
 ---------
-Hf(2FH)=-570.39288
-Hf(F-)=-245.39356
+Hf(2FH-)=-570.39288 KJ/MOL
+Hf(F-)=-245.39356 KJ/MOL
 Hf(HF)=-259.13887 KJ/MOL
 
-Hf(vod)=Hf(2FH)-Hf(HF)-Hf(F-)
+Hf(vod)=Hf(2FH=)-Hf(HF)-Hf(F-)
 Hf(vod)=-570.39288-(-259.13887)-(-245.39356)=-65.86045 kJ/mol
 
 HF...HF
 -------
-
 antiparalelne:
 HF + HF = HF ... HF 
 
