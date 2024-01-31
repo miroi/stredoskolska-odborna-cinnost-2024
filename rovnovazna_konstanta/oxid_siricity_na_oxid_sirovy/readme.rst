@@ -45,7 +45,11 @@ S(O2)=46.5424 CAL/K/MOL
 G(O2)=-298*S(O2) = -298*46.5424 = -13,8696352 KCAL/MOL
 
 Gr(298)=2*G(SO3)-2*G(SO2)-G(O2)=2*(-119,8955576)-2*(-83,0143506)-(-13,8696352)= -598,927788 KCAL/MOL
+Gr(298)= -2505911.0985 J/mol
 
+K(298)=exp(-Gr/RT)=exp(2505911.0985/(8.314*298))
+K(298)=exp(1011.438254)
+       
 370K (cca 100oC)
 ~~~~~
 H(SO3)= -100.485 KCAL/MOL  (zlučovacia entalpia)
@@ -61,6 +65,10 @@ S(O2)= 48.0682  CAL/K/MOL
 G(O2)=-370*S(O2)=-370*48.0682 = -17,785234 kcal/mol
 
 Gr(370)=2*G(SO3)-2*G(SO2)-G(O2) = 2*(-124,458965)-2*(-87,40092)-(-17,785234)= -213,652512  KCAL/MOL
+Gr(370)=-893921.1233 J/mol
+
+K(370)=exp(-Gr/RT)=exp(893921.1233/(8.314*370))
+K(370)=exp(290.5945437)
 
 "10. Hodnota rovnovážnej konštanty je vyššia pri nižšej teplote, lebo pri vyššej teplote je
 rovnováha posunutá na stranu reaktantov"
