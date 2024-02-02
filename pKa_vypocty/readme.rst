@@ -10,9 +10,16 @@ PM6 PRECISE
 
 kyselina mravčia
 ----------------
+PM6 pKa =  3.790      
 
 kyselina šťaveľová
 -------------------
+8      1.560    pKa1   
+7      1.578    pKa2
+
+kyselina propanova
+-------------------
+11      4.897
 
 kyselina butanova 
 -----------------
