@@ -8,6 +8,12 @@ praca na vysvetlenie https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991863/
 
 PM6 PRECISE
 
+kyselina mravčia
+----------------
+
+kyselina šťaveľová
+-------------------
+
 kyselina butanova 
 -----------------
 4.835  exp je 4.82
