@@ -5,6 +5,6 @@ https://siov.sk/en/sutaze/stredoskolska-odborna-cinnost/
 
 pracovné súbory k jednej práci k SOČ-2024 
 
-"Molekulove modelovanie pre podporu vyucby chemia na gymnaziach"
+"Molekulové modelovanie pre podporu vyučovania chémie na stredných školách"
 
 
