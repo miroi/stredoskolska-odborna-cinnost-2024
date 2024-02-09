@@ -1,7 +1,6 @@
 Molekula HF
 ===========
 
-mo homo
-mo homo-1
+orbital sigma: mo homo-2
 
 
