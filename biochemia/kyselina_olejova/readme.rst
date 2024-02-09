@@ -1,6 +1,6 @@
+============================
 Kyselina olejova, cis/trans
 ============================
-
 
 Stiahneme si z MolView subory:
 
@@ -8,10 +8,15 @@ Cis-Oleic acid, https://molview.org/?cid=445639
 
 Trans-Oleic acid, https://molview.org/?cid=637517
 
-Nacitama do Avogadra a v Properties si pozrieme celkovu energiu :
 
+Nacitam do Avogadra, spustim a potom stopnem optimalizaciu a v Properties si pozrieme celkovu energiu :
+PLUS MOPAC vypocty:
 
-            MMFF94  
-cis          cca -95.3 kJ/mol   (ciastocne zoptimalizovana)
+Energie v kJ/mol
+            MMFF94        PM7
+cis      cca -95.3       -682.59966
 
-trans        cca -94.5 kJ/mol    (ciastocne zoptimalizovana)
+trans    cca -94.5       -679.36942
+
+Vidime,ze cis forma ma nizsiu energiu
+
