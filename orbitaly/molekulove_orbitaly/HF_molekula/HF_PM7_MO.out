@@ -1,6 +1,6 @@
  *******************************************************************************
  **                                                                           **
- **                              MOPAC v22.1.0                                **
+ **                              MOPAC v22.1.1                                **
  **                                                                           **
  *******************************************************************************
  **          Digital Object Identifier (DOI): 10.5281/zenodo.6511958          **
@@ -10,7 +10,7 @@
                               PM7 CALCULATION RESULTS
 
  *******************************************************************************
- *  CALCULATION DONE:                                Fri Feb  9 15:48:21 2024  *
+ *  CALCULATION DONE:                                Fri Feb 16 12:25:08 2024  *
  *  PM7        - The PM7 Hamiltonian to be used
  *  SINGLET    - SPIN STATE DEFINED AS A SINGLET
  *
@@ -68,11 +68,11 @@
           DIAGONAL MATRIX USED AS START HESSIAN
 
  CYCLE:     1 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:   215.094 HEAT: -40.61059
- CYCLE:     2 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:   129.669 HEAT: -59.42159
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:   129.669 HEAT: -59.42159
  CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    75.963 HEAT: -60.58579
  CYCLE:     4 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:    15.353 HEAT: -61.88857
  CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.480 HEAT: -61.93449
- CYCLE:     6 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     0.058 HEAT: -61.93568
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.058 HEAT: -61.93568
  CYCLE:     7 TIME:   0.004 TIME LEFT:  2.00D  GRAD.:     0.001 HEAT: -61.93568
 
      GRADIENT =  0.00079 IS LESS THAN CUTOFF =  0.05000
@@ -90,8 +90,8 @@
 
 
                               PM7 CALCULATION
-                                                       MOPAC v22.1.0 Windows
-                                                       Fri Feb  9 15:48:21 2024
+                                                       MOPAC v22.1.1 Windows
+                                                       Fri Feb 16 12:25:08 2024
 
 
 
@@ -118,7 +118,7 @@
 
           SCF CALCULATIONS        =          8
  
-          WALL-CLOCK TIME         =      0.051 SECONDS
+          WALL-CLOCK TIME         =      0.039 SECONDS
           COMPUTATION TIME        =      0.031 SECONDS
 
 
@@ -186,6 +186,6 @@
 
 
 
- TOTAL JOB TIME:             0.06 SECONDS
+ TOTAL JOB TIME:             0.05 SECONDS
 
  == MOPAC DONE ==
