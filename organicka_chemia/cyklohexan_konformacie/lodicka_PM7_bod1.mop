@@ -1,5 +1,5 @@
- PRECISE LARGE CHARGE=0 SINGLET  PM7
-Cyklohexan-lodicka
+ CHARGE=0 SINGLET PM6 NOOPT
+Cyklohexan-lodicka, geometria 1
 
    C       -3.21863             1         2.47528             1        -0.25255             1 
    C       -4.46907             1         1.73502             1         0.21447             1 
