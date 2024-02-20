@@ -1,5 +1,5 @@
-  CHARGE=0 SINGLET NOOPT PM6
- Cyklohexan, lodicka, bod 2
+  GEO_DAT="lodicka_bod1.arc" GEO_REF="lodicka_bod2.arc" SADDLE  GEO-OK CHARGE=0 SINGLET  PM7 PRECISE
+ Cyklohexan, lodicka, TS
 
    C       -3.22410             0         2.62751             0        -0.25078             0 
    C       -4.46907             0         1.73502             0         0.21447             0 
