@@ -10,4 +10,14 @@ one electron from the seven-membered ring is transferred to the five-membered ri
 
 dipole(PM7)= 1.695 D
 
+https://webbook.nist.gov/cgi/cbook.cgi?ID=C275514&Units=SI&Mask=7#Thermo-Gas
+
+ΔfH°gas = 308.	kJ/mol; 280.	kJ/mol
+
+PM7:
+
+FINAL HEAT OF FORMATION =     331.07381 KJ/MOL
+
+
+Avogadro: viac zaporneho naboja je na 5-článkovom podcykle, vektor dipol.momentu je od 7-článkového k 5-článkovému cyklu.
 
