@@ -18,6 +18,8 @@ PM7:
 
 FINAL HEAT OF FORMATION =     331.07381 KJ/MOL
 
+iné výpočty:
+https://www.nature.com/articles/s41598-023-37047-7/tables/1
 
 Avogadro: viac zaporneho naboja je na 5-článkovom podcykle, vektor dipol.momentu je od 7-článkového k 5-článkovému cyklu.
 
